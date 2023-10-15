@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cMfv4lpboUfahEmwUwiK39e47yGhS1Yc7sYxv6p4yrhDNIYm4UGsXdBNRX7TgeKz6093qANvHdfLHK4jbYHRSg==",
+  "success": true,
+  "projectFilePath": "D:\\!PROGRAMOZÁS FELADATOK!\\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\\MonitorokFullOOP\\MonitorokFullOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barnane.SZGYATECH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

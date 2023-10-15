@@ -1,0 +1,28 @@
+Gyártó: AOC;
+Típus: 24G2U ;
+Méret: 23,8 col;
+Nettó ár (ezer ft): 66
+Bruttó ár (ezer ft): 84
+Raktárkészlet: 15 darab
+nem játék monitor
+Gyártó: SAMSUNG;
+Típus: ODYSSEY G9 C49G95TSSU ;
+Méret: 49 col;
+Nettó ár (ezer ft): 450
+Bruttó ár (ezer ft): 571
+Raktárkészlet: 15 darab
+nem játék monitor
+Gyártó: LG;
+Típus: 25UM58-P ;
+Méret: 25 col;
+Nettó ár (ezer ft): 56
+Bruttó ár (ezer ft): 71
+Raktárkészlet: 15 darab
+nem játék monitor
+Gyártó: SAMSUNG;
+Típus: C27JG50QQU ;
+Méret: 27,5 col;
+Nettó ár (ezer ft): 91
+Bruttó ár (ezer ft): 116
+Raktárkészlet: 15 darab
+nem játék monitor

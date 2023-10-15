@@ -1,0 +1,32 @@
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.csproj.AssemblyReference.cache
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.AssemblyInfoInputs.cache
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.AssemblyInfo.cs
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.csproj.CoreCompileInputs.cache
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.exe
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.deps.json
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.runtimeconfig.json
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.runtimeconfig.dev.json
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.dll
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\bin\Debug\net5.0\ref\MonitorokFullOOP.dll
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.pdb
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.dll
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\obj\Debug\net5.0\ref\MonitorokFullOOP.dll
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.pdb
+G:\Projects\MonitorokFullOOP\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.genruntimeconfig.cache
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.exe
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.deps.json
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.runtimeconfig.json
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.runtimeconfig.dev.json
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.dll
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\bin\Debug\net5.0\ref\MonitorokFullOOP.dll
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\bin\Debug\net5.0\MonitorokFullOOP.pdb
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.csproj.AssemblyReference.cache
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.GeneratedMSBuildEditorConfig.editorconfig
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.AssemblyInfoInputs.cache
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.AssemblyInfo.cs
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.csproj.CoreCompileInputs.cache
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.dll
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\obj\Debug\net5.0\ref\MonitorokFullOOP.dll
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.pdb
+G:\!PROGRAMOZÁS FELADATOK!\42. Monitorok 2023 - oop, de fapados, nem LINQ-s\MonitorokFullOOP\obj\Debug\net5.0\MonitorokFullOOP.genruntimeconfig.cache
